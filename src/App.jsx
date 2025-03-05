@@ -62,7 +62,7 @@ function App() {
         price="500"
         image="/camera6.webp"
         isDiscount={false}
-        quantity={15}
+        quantity={14}
         rate={4}
         sp={false}//Special badge 
       />
@@ -71,7 +71,7 @@ function App() {
         price="500"
         image="/camera7.webp"
         isDiscount={false}
-        quantity={5}
+        quantity={3}
         rate={4}
         sp={true}//Special badge 
       />
@@ -80,7 +80,7 @@ function App() {
         price="500"
         image="/camera8.webp"
         isDiscount={false}
-        quantity={5}
+        quantity={2}
         rate={4}
         sp={false}//Special badge 
       />
