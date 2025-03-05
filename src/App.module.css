@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 35px;
+    background-color:rgb(180, 179, 179)
+}
